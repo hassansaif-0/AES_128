@@ -1,5 +1,5 @@
 
-"""AUTHOR::Hassan Saif and Talal Saadat"""
+"""AUTHOR::Hassan Saif"""
 import numpy as np
 import copy
 """Pre Defined Constants"""
